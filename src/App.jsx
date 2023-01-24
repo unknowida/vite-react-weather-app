@@ -5,9 +5,15 @@ import Search from './components/search/search'
 
 function App() {
 
+  // state (état, données)
   const handleOnSearchChange = (searchData) => {
     console.log(searchData);
   }
+
+  // comportements
+
+  // Affichage (render(rerender))
+  
 
 
 
